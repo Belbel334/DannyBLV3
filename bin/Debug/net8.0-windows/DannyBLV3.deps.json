@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DannyBLV3/1.0.0": {
+        "runtime": {
+          "DannyBLV3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DannyBLV3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

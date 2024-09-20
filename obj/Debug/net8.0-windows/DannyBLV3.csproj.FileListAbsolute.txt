@@ -1,0 +1,16 @@
+C:\Users\gheys\source\repos\DannyBLV3\DannyBLV3\bin\Debug\net8.0-windows\DannyBLV3.exe
+C:\Users\gheys\source\repos\DannyBLV3\DannyBLV3\bin\Debug\net8.0-windows\DannyBLV3.deps.json
+C:\Users\gheys\source\repos\DannyBLV3\DannyBLV3\bin\Debug\net8.0-windows\DannyBLV3.runtimeconfig.json
+C:\Users\gheys\source\repos\DannyBLV3\DannyBLV3\bin\Debug\net8.0-windows\DannyBLV3.dll
+C:\Users\gheys\source\repos\DannyBLV3\DannyBLV3\bin\Debug\net8.0-windows\DannyBLV3.pdb
+C:\Users\gheys\source\repos\DannyBLV3\DannyBLV3\obj\Debug\net8.0-windows\DannyBLV3.Form1.resources
+C:\Users\gheys\source\repos\DannyBLV3\DannyBLV3\obj\Debug\net8.0-windows\DannyBLV3.csproj.GenerateResource.cache
+C:\Users\gheys\source\repos\DannyBLV3\DannyBLV3\obj\Debug\net8.0-windows\DannyBLV3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gheys\source\repos\DannyBLV3\DannyBLV3\obj\Debug\net8.0-windows\DannyBLV3.AssemblyInfoInputs.cache
+C:\Users\gheys\source\repos\DannyBLV3\DannyBLV3\obj\Debug\net8.0-windows\DannyBLV3.AssemblyInfo.cs
+C:\Users\gheys\source\repos\DannyBLV3\DannyBLV3\obj\Debug\net8.0-windows\DannyBLV3.csproj.CoreCompileInputs.cache
+C:\Users\gheys\source\repos\DannyBLV3\DannyBLV3\obj\Debug\net8.0-windows\DannyBLV3.dll
+C:\Users\gheys\source\repos\DannyBLV3\DannyBLV3\obj\Debug\net8.0-windows\refint\DannyBLV3.dll
+C:\Users\gheys\source\repos\DannyBLV3\DannyBLV3\obj\Debug\net8.0-windows\DannyBLV3.pdb
+C:\Users\gheys\source\repos\DannyBLV3\DannyBLV3\obj\Debug\net8.0-windows\DannyBLV3.genruntimeconfig.cache
+C:\Users\gheys\source\repos\DannyBLV3\DannyBLV3\obj\Debug\net8.0-windows\ref\DannyBLV3.dll
